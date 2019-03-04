@@ -1,5 +1,7 @@
 # game-puzzle #
 
+Note this project works in JDK1.7 and above
+
 This is a game designed by Nagendra Prasad Gandla for myCompany puzzle round
 
 Main class is:src/main/java/mygame/MyGame.java
